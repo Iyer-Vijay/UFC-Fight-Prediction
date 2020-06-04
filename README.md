@@ -3,3 +3,5 @@ This repo is for the prediction analysis on the ufc fight data. The dataset is t
 Creator - 
 * Vijay Iyer 
 * Bijo Thomas
+<br>
+To run the file you need the installation of altair.
